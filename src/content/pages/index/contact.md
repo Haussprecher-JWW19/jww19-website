@@ -5,9 +5,6 @@ You can find our contact details in the main entrance or use the email addresses
 ### WhatsApp Community
 The student self-administration as well as residents of the dorm are most active on the WhatsApp community of the dorm. You can join the community via the QR code in the main entrance.
 
-### House Speakers
-✉ [haussprecher@jww19.de](mailto:haussprecher@jww19.de)
-
 ### Tutors
 ✉ [tutoren@jww19.de](mailto:tutoren@jww19.de)
 
@@ -20,9 +17,6 @@ Im Eingangsbereich des Wohnheims sind unsere Kontaktdaten ausgehangen.
 
 ### WhatsApp Community
 Die studentische Selbstverwaltung sowie Mitbewohner des Wohnheims sind am einfachsten über unsere WhatsApp Community zu erreichen. Im Eingang des Wohnheims befindet sich ein QR Code über den man der WhatsApp Community beitreten kann.
-
-### Haussprecher
-✉ [haussprecher@jww19.de](mailto:haussprecher@jww19.de)
 
 ### Tutoren
 ✉ [tutoren@jww19.de](mailto:tutoren@jww19.de)
